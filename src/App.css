@@ -12,3 +12,6 @@
 a {
   text-decoration: none !important;
 }
+img {
+  color: transparent;
+}
