@@ -26938,7 +26938,7 @@ iframe {
 }
 
 .accordion-style-one.color-two .accordion-button:after {
-  /* content: url(/_next/static/media/icon_40.43338f1b.svg); */
+  content: url(./assets/Images/icon40.svg);
 }
 
 .accordion-style-one.color-two .accordion-item {
