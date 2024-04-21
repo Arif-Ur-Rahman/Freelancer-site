@@ -3,6 +3,7 @@ import Header from "../components/header/Header";
 import Hero from "../components/hero/Hero";
 import SubNav from "../components/header/subnav/SubNav";
 import TrendingService from "../components/trendingService/TraedingService";
+import ExploreMarketPlace from "../components/explorMarketPlace/ExplorMarketPlace";
 
 const Home = () => {
   return (
@@ -11,6 +12,7 @@ const Home = () => {
       <SubNav />
       <Hero />
       <TrendingService />
+      <ExploreMarketPlace />
     </div>
   );
 };
