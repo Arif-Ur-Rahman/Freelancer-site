@@ -57,7 +57,7 @@ const ExploreMarketPlace = () => {
             </div>
           </div>
         </div>
-        <div class="card-wrapper row justify-content-center mt-45 lg-mt-30">
+        <div class="card-wrapper row justify-content-center mt-5 lg-mt-30">
           {ExploreMarketPlace.map((explore, index) => (
             <div
               key={index}
