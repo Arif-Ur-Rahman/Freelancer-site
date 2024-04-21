@@ -5,6 +5,7 @@ import Hero from "../components/hero/Hero";
 import TrendingService from "../components/trendingService/TraedingService";
 import ExploreMarketPlace from "../components/explorMarketPlace/ExplorMarketPlace";
 import WhyChoose from "../components/whyChoose/WhyChoose";
+import BusinessSolution from "../components/businessSolution/BusinessSolution";
 
 const Home = () => {
   return (
@@ -15,6 +16,7 @@ const Home = () => {
       <TrendingService />
       <ExploreMarketPlace />
       <WhyChoose />
+      <BusinessSolution />
     </div>
   );
 };
