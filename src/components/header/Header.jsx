@@ -17,7 +17,6 @@ const Header = () => {
                   width="119"
                   height="40"
                   decoding="async"
-                  //   style="color: transparent; height: auto"
                   src={logo}
                 />
               </a>
