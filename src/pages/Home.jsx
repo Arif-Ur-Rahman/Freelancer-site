@@ -6,6 +6,7 @@ import TrendingService from "../components/trendingService/TraedingService";
 import ExploreMarketPlace from "../components/explorMarketPlace/ExplorMarketPlace";
 import WhyChoose from "../components/whyChoose/WhyChoose";
 import BusinessSolution from "../components/businessSolution/BusinessSolution";
+import Inspiration from "../components/inspiration/Inspiration";
 
 const Home = () => {
   return (
@@ -17,6 +18,7 @@ const Home = () => {
       <ExploreMarketPlace />
       <WhyChoose />
       <BusinessSolution />
+      <Inspiration />
     </div>
   );
 };
