@@ -4,6 +4,7 @@ import Hero from "../components/hero/Hero";
 // import SubNav from "../components/header/subnav/SubNav";
 import TrendingService from "../components/trendingService/TraedingService";
 import ExploreMarketPlace from "../components/explorMarketPlace/ExplorMarketPlace";
+import WhyChoose from "../components/whyChoose/WhyChoose";
 
 const Home = () => {
   return (
@@ -13,6 +14,7 @@ const Home = () => {
       <Hero />
       <TrendingService />
       <ExploreMarketPlace />
+      <WhyChoose />
     </div>
   );
 };
